@@ -1,0 +1,102 @@
+{
+    "frames": [
+        {
+            "filename": "idle_01",
+            "frame": {
+                "x": 27,
+                "y": 0,
+                "w": 26,
+                "h": 40
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        },
+        {
+            "filename": "idle_02",
+            "frame": {
+                "x": 0,
+                "y": 41,
+                "w": 26,
+                "h": 40
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        },
+        {
+            "filename": "idle_03",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 26,
+                "h": 40
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        },
+        {
+            "filename": "walking_01",
+            "frame": {
+                "x": 48,
+                "y": 41,
+                "w": 20,
+                "h": 40
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        },
+        {
+            "filename": "walking_02",
+            "frame": {
+                "x": 27,
+                "y": 41,
+                "w": 20,
+                "h": 40
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        },
+        {
+            "filename": "walking_03",
+            "frame": {
+                "x": 54,
+                "y": 0,
+                "w": 20,
+                "h": 38
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        },
+        {
+            "filename": "walking_04",
+            "frame": {
+                "x": 69,
+                "y": 39,
+                "w": 20,
+                "h": 40
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        }
+    ],
+    "meta": {
+        "size": {
+            "w": 90,
+            "h": 82
+        },
+        "scale": "1"
+    }
+}

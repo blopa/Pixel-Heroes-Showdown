@@ -1,0 +1,206 @@
+{
+    "frames": [
+        {
+            "filename": "hero_04_idle_01",
+            "frame": {
+                "x": 36,
+                "y": 18,
+                "w": 10,
+                "h": 18
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        },
+        {
+            "filename": "hero_04_idle_02",
+            "frame": {
+                "x": 26,
+                "y": 0,
+                "w": 10,
+                "h": 17
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        },
+        {
+            "filename": "hero_04_idle_03",
+            "frame": {
+                "x": 11,
+                "y": 39,
+                "w": 10,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        },
+        {
+            "filename": "hero_04_idle_04",
+            "frame": {
+                "x": 26,
+                "y": 0,
+                "w": 10,
+                "h": 17
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        },
+        {
+            "filename": "hero_04_jumping_01",
+            "frame": {
+                "x": 13,
+                "y": 19,
+                "w": 11,
+                "h": 19
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        },
+        {
+            "filename": "hero_04_jumping_02",
+            "frame": {
+                "x": 36,
+                "y": 37,
+                "w": 10,
+                "h": 17
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        },
+        {
+            "filename": "hero_04_jumping_03",
+            "frame": {
+                "x": 25,
+                "y": 19,
+                "w": 10,
+                "h": 18
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        },
+        {
+            "filename": "hero_04_jumping_04",
+            "frame": {
+                "x": 36,
+                "y": 37,
+                "w": 10,
+                "h": 17
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        },
+        {
+            "filename": "hero_04_jumping_05",
+            "frame": {
+                "x": 11,
+                "y": 39,
+                "w": 10,
+                "h": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        },
+        {
+            "filename": "hero_04_jumping_06",
+            "frame": {
+                "x": 0.5,
+                "y": 38,
+                "w": 10,
+                "h": 17
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        },
+        {
+            "filename": "hero_04_jumping_07",
+            "frame": {
+                "x": 36,
+                "y": 18,
+                "w": 10,
+                "h": 18
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        },
+        {
+            "filename": "hero_04_walking_01",
+            "frame": {
+                "x": 14,
+                "y": 0,
+                "w": 11,
+                "h": 18
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        },
+        {
+            "filename": "hero_04_walking_02",
+            "frame": {
+                "x": 0.5,
+                "y": 0,
+                "w": 13,
+                "h": 18
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        },
+        {
+            "filename": "hero_04_walking_03",
+            "frame": {
+                "x": 0.5,
+                "y": 19,
+                "w": 12,
+                "h": 18
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        },
+        {
+            "filename": "hero_04_walking_04",
+            "frame": {
+                "x": 25,
+                "y": 38,
+                "w": 10,
+                "h": 17
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 1
+            }
+        }
+    ],
+    "meta": {
+        "size": {
+            "w": 47,
+            "h": 56
+        },
+        "scale": "2"
+    }
+}

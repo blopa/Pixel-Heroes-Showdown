@@ -1,0 +1,50 @@
+{
+    "frames": [
+        {
+            "filename": "item_idle_01",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "filename": "item_idle_02",
+            "frame": {
+                "x": 32,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "filename": "item_idle_03",
+            "frame": {
+                "x": 64,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "meta": {
+        "size": {
+            "w": 96,
+            "h": 32
+        },
+        "scale": "1"
+    }
+}

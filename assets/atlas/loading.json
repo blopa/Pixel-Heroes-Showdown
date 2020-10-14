@@ -1,0 +1,115 @@
+{
+    "frames": [
+        {
+            "filename": "loading_1",
+            "frame": {
+                "x": 30,
+                "y": 0,
+                "w": 14,
+                "h": 14
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "filename": "loading_2",
+            "frame": {
+                "x": 15,
+                "y": 30,
+                "w": 14,
+                "h": 14
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "filename": "loading_3",
+            "frame": {
+                "x": 15,
+                "y": 15,
+                "w": 14,
+                "h": 14
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "filename": "loading_4",
+            "frame": {
+                "x": 30,
+                "y": 15,
+                "w": 14,
+                "h": 14
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "filename": "loading_5",
+            "frame": {
+                "x": 0,
+                "y": 30,
+                "w": 14,
+                "h": 14
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "filename": "loading_6",
+            "frame": {
+                "x": 0,
+                "y": 15,
+                "w": 14,
+                "h": 14
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "filename": "loading_7",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 14,
+                "h": 14
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "filename": "loading_8",
+            "frame": {
+                "x": 15,
+                "y": 0,
+                "w": 14,
+                "h": 14
+            },
+            "anchor": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "meta": {
+        "size": {
+            "w": 45,
+            "h": 45
+        },
+        "scale": "1"
+    }
+}

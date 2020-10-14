@@ -1,0 +1,7 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{16:
+/*!******************************************!*\
+  !*** ./src/requests/drop-tetromino.json ***!
+  \******************************************/
+/*! exports provided: game, default */
+/*! all exports used */
+/*! ModuleConcatenation bailout: Module is not an ECMAScript module */function(e){e.exports=JSON.parse('{"game":{"turnPhase":2,"pendingPlayers":[{"nickname":"blopa","heroColor":1,"heroType":9}],"board":{"blockMap":[[10,0,0,0,0,0,0,0,0,0,20],[0,100,100,0,0,0,0,0,200,200,0],[0,100,100,1,1,2,2,2,200,200,0],[1,10,1,0,0,0,0,0,2,0,0],[2,20,1,0,0,0,0,0,2,0,0],[0,1,1,0,0,0,0,0,3,0,0],[20,2,4,0,0,0,0,0,3,0,0],[10,1,4,0,0,0,3,3,3,0,0],[0,400,400,4,4,4,3,3,300,300,0],[0,400,400,0,0,0,0,0,300,300,0],[40,0,0,0,0,0,0,0,0,0,30]],"heroes":[{"heroType":9,"heroColor":1,"tilePosition":{"x":2,"y":2},"health":100,"mana":20,"invisible":false},{"heroType":9,"heroColor":2,"tilePosition":{"x":10,"y":10},"health":100,"mana":20,"invisible":false},{"heroType":9,"heroColor":3,"tilePosition":{"x":10,"y":5},"health":60,"mana":20,"invisible":false},{"heroType":9,"heroColor":4,"tilePosition":{"x":5,"y":10},"health":80,"mana":20,"invisible":false}]}}}')}}]);
